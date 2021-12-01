@@ -1,0 +1,56 @@
+body{
+    direction: rtl;
+    text-align: right;
+    background-color: #f7c1d1;
+}
+header{
+    padding:20px 0;
+    background-image: linear-gradient(to top, #f7c1d1 ,#ffffff );
+}
+.heroText{
+    font-size:40px;
+    color:#ce7a92;
+    margin-top:50px;
+    text-align: center;
+}
+img{
+    width:100%;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+}
+p{
+    margin:0;
+}
+.logo{
+    width:70%;
+    margin:auto;
+}
+.EventCateg{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.categBox{
+    background-image: linear-gradient(to top, #f7c1d1 ,#ffffff );
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,.2);
+}
+.categImg{
+    margin-bottom: 20px;
+height: 35%;
+}
+.categImg img{
+    height: 100%;
+}
+.categDetails{
+    padding:10px
+}
+.categDetails a {
+font-size: 25px;
+text-align: center;
+margin-bottom: 20px;
+color:#ce7a92;
+text-decoration: none;
+}
