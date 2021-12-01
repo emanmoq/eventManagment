@@ -54,3 +54,11 @@ margin-bottom: 20px;
 color:#ce7a92;
 text-decoration: none;
 }
+
+.priceBox .categDetails{
+    text-align: center;
+}
+.categpricImg{
+    border:1px solid #eee;
+    padding:10px;
+}
