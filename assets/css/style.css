@@ -61,4 +61,8 @@ text-decoration: none;
 .categpricImg{
     border:1px solid #eee;
     padding:10px;
+    height:350px;
+}
+.categpricImg img{
+    height: 100%;
 }
